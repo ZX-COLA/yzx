@@ -47,3 +47,23 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
+
+
+
+[1]. **Yang** **Sen*******, Yang Zixi, Yang Jun, 4mCBERT: A Computing Tool for the Identification of DNA N4-methylcytosine Sites by Sequence- and Chemical-Derived Information Based on Ensemble Learning Strategies, International Journal of Biological Macromolecules, vol. 231, p. 123180, Mar. 2023, doi: 10.1016/j.ijbiomac.2023.123180, 第一作者, IF=8.025, JCR=Q1, 中科院一区, Top期刊
+
+[2]. Feng Hongqi, Wang Shaocong, Wang Yan, Ni Xinye, Yang Zexi, Hu Xuemei, **Yang Sen*******, LncCat: An ORF Attention Model to Identify LncRNA Based on Ensemble Learning Strategy and Fused Sequence Information. Computational and Structural Biotechnology Journal 2023:S2001037023000582. https://doi.org/10.1016/j.csbj.2023.02.012, 通信作者, IF=6.155, JCR=Q1, 中科院二区
+
+[3]. Zhu Lun, Ye Chenyang, Hu Xuemei, **Yang Sen*******, Zhu Chenyang, ACP-check: An Anticancer Peptide Prediction Model Based on Bidirectional Long Short-Term Memory and Multi-Features Fusion Strategy, Computers in Biology and Medicine. 148 （2022） 105868. https://doi.org/10.1016/j.compbiomed.2022.10 5868, 通信作者, IF=6.698, JCR=Q1, 中科院二区
+
+[4]. **Yang Sen**, Wang Yan*, Zhang Shuangquan, Hu Xuemei, Ma Qin and Tian Yuan, NCResNet: Noncoding Ribonucleic Acid Prediction Based on a Deep Resident Network of Ribonucleic Acid Sequences, Frontiers in Genetics. 11 （2020） 90. https://doi.org/10.3389/fgene.2020.00090, 第一作者, IF=3.258, JCR=Q1, 中科院二区.``
+
+[5]. Wang Yan, Zhu Xiaopeng, Yang Lili, Hu Xuemei, He Kai, Yu Cuinan, Jiao Shaoqing, Chen Jiali, Guo Rui, **Yang Sen*******, IDDLncLoc: Subcellular Localization of LncRNAs Based on a Framework for Imbalanced Data Distributions, Interdisciplinary Sciences-Computational Life Sciences. 14 （2022） 409–420. https://doi.org/10.1007/s12539-021-00497-6, 通信作者, IF=2.233, JCR=Q2, 中科院三区
+
+[6]. Wang Yan, Guo Rui, Huang Lan, **Yang Sen***, Hu Xuemei, He Kai, A Predictor for N6-Methyladenosine Sites Identification Utilizing Sequence Characteristics and Graph Embedding-Based Geometrical Information, Frontiers in Genetics. 12 （2021） 670852. https://doi.org/10.3389/fgene.2021.670852, 通信作者, IF=3.258, JCR=Q1, 中科院三区.
+
+[7]. Wang Yan, **Yang Sen**, Zhao Jing, Du Wei, Liang Yanchun, Wang Cankun, Zhou Fengfeng, Tian Yuan*, Ma Qin, Using Machine Learning to Measure Relatedness Between Genes: A Multi-Features Model, Scientific Reports. 9 （2019） 4192. https://doi.org/10.1038/s41598-019-40780-7, IF=3.998, JCR=Q1, 中科院三区, 被引用33次
+
+``
